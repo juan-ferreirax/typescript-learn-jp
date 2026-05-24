@@ -18,7 +18,7 @@ Os conteúdos estão organizados por módulos, seguindo uma ordem didática:
 - **Módulo 09 - Modules:** Organização de código em módulos
 - **Módulo 10 - TypeScript em Node.js:** Exemplos práticos com Node.js e Express
 
-Cada módulo contém exemplos em `.ts` e, quando relevante, arquivos `.js` gerados para comparação.
+Cada módulo contém exemplos em `.ts` e seus respectivos `.js` gerados para efeito de comparação.
 
 ---
 
